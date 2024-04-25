@@ -18,15 +18,11 @@
 
 ![mucition1](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/b7c62719-833d-4c02-a8ff-8b71160dce47)
 
-![Home](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/c120cc85-a128-4eb0-b06f-0d336eef242e)
-
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Explore - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
 ![mucition2](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/2511d200-16b0-49b5-9876-a2203b517137)
-
-![Explore](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/c83b5337-8640-4fd4-b70c-bf2cf7150858)
 
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - People - 💖⭐ 🌲🌳🎄🌴 </b>
@@ -34,15 +30,11 @@
 
 ![mucition3](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/1169275a-910b-46bf-a48b-c379b69e3d18)
 
-![People](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/2646a0fd-6c48-40f8-bcc2-fee9e3bbc27b)
-
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Saved - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
 ![mucition4](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/c6c7860c-eda1-4c2c-ab65-1ad5875b29df)
-
-![Saved](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/0a42f57c-08d2-4bb8-9b0c-7b3850787c09)
 
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Create Post - 💖⭐ 🌲🌳🎄🌴 </b>
@@ -50,45 +42,11 @@
 
 ![mucition5](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/efb8215a-3e11-4d2d-b776-0f1e5af23fb4)
 
-![Create Post](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/23278eec-6ad4-463f-8b4d-523d8f218078)
-
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Profile - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
 ![Uploading mucition6.png…]()
-
-![Profile](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/b25df67c-7631-4bb7-8633-3fd970dccd35)
-
-<p align="center">
-  <b> 🌴🎄🌳🌲 ⭐💖 - Detailed Post - 💖⭐ 🌲🌳🎄🌴 </b>
-</p>
-
-![Detailed Post](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/72d8e720-2255-49ae-8bae-31f663652a7d)
-
-<p align="center">
-  <b> 🌴🎄🌳🌲 ⭐💖 - Users Account - 💖⭐ 🌲🌳🎄🌴 </b>
-</p>
-
-![Users Account](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/05c66fae-d3e7-41a3-9959-50c91ec96c1b)
-
-<p align="center">
-  <b> 🌴🎄🌳🌲 ⭐💖 - LogIn - 💖⭐ 🌲🌳🎄🌴 </b>
-</p>
-
-![LogIn](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/5aba06b1-0944-4a98-89fd-ed151dce27af)
-
-<p align="center">
-  <b> 🌴🎄🌳🌲 ⭐💖 - SignUp - 💖⭐ 🌲🌳🎄🌴 </b>
-</p>
-
-![SignUp](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/e84b7a9e-1dfe-41d9-a428-6ac8ad33a2d0)
-
-<p align="center">
-  <b> 🌴🎄🌳🌲 ⭐💖 - Loading - 💖⭐ 🌲🌳🎄🌴  </b>
-</p>
-
-![Loading](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/3bab4f7b-5f61-4ab4-a433-b69835ed2b7e)
 
 ## Badges
 
