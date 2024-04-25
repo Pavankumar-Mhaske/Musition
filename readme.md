@@ -16,11 +16,15 @@
   <b> 🌴🎄🌳🌲 ⭐💖 - Home - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
+![mucition1](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/b7c62719-833d-4c02-a8ff-8b71160dce47)
+
 ![Home](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/c120cc85-a128-4eb0-b06f-0d336eef242e)
 
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Explore - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+
+![mucition2](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/2511d200-16b0-49b5-9876-a2203b517137)
 
 ![Explore](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/c83b5337-8640-4fd4-b70c-bf2cf7150858)
 
@@ -28,11 +32,15 @@
   <b> 🌴🎄🌳🌲 ⭐💖 - People - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
+![mucition3](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/1169275a-910b-46bf-a48b-c379b69e3d18)
+
 ![People](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/2646a0fd-6c48-40f8-bcc2-fee9e3bbc27b)
 
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Saved - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+
+![mucition4](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/c6c7860c-eda1-4c2c-ab65-1ad5875b29df)
 
 ![Saved](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/0a42f57c-08d2-4bb8-9b0c-7b3850787c09)
 
@@ -40,11 +48,15 @@
   <b> 🌴🎄🌳🌲 ⭐💖 - Create Post - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
+![mucition5](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/efb8215a-3e11-4d2d-b776-0f1e5af23fb4)
+
 ![Create Post](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/23278eec-6ad4-463f-8b4d-523d8f218078)
 
 <p align="center">
   <b> 🌴🎄🌳🌲 ⭐💖 - Profile - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
+
+![Uploading mucition6.png…]()
 
 ![Profile](https://github.com/Pavankumar-Mhaske/SnapGram/assets/104865937/b25df67c-7631-4bb7-8633-3fd970dccd35)
 
