@@ -13,42 +13,40 @@
 ## 📸 Screenshots 📷🎥
 
 <p align="center">
-  <b> 🌴🎄🌳🌲 ⭐💖 - Home - 💖⭐ 🌲🌳🎄🌴 </b>
+  <b> 🌴🎄🌳🌲 ⭐💖 - User's Choice - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
 ![mucition1](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/b7c62719-833d-4c02-a8ff-8b71160dce47)
 
 <p align="center">
-  <b> 🌴🎄🌳🌲 ⭐💖 - Explore - 💖⭐ 🌲🌳🎄🌴 </b>
+  <b> 🌴🎄🌳🌲 ⭐💖 -Capturing Emotion/Action(Good luck)- 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
 ![mucition2](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/2511d200-16b0-49b5-9876-a2203b517137)
 
 <p align="center">
-  <b> 🌴🎄🌳🌲 ⭐💖 - People - 💖⭐ 🌲🌳🎄🌴 </b>
+  <b> 🌴🎄🌳🌲 ⭐💖 - Capturing Emotion/Action(Love) - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
 ![mucition3](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/1169275a-910b-46bf-a48b-c379b69e3d18)
 
 <p align="center">
-  <b> 🌴🎄🌳🌲 ⭐💖 - Saved - 💖⭐ 🌲🌳🎄🌴 </b>
+  <b> 🌴🎄🌳🌲 ⭐💖 - Capturing Emotion/Action(Hello)- 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
 ![mucition4](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/c6c7860c-eda1-4c2c-ab65-1ad5875b29df)
 
 <p align="center">
-  <b> 🌴🎄🌳🌲 ⭐💖 - Create Post - 💖⭐ 🌲🌳🎄🌴 </b>
+  <b> 🌴🎄🌳🌲 ⭐💖 - Music Suggestions - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
 ![mucition5](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/efb8215a-3e11-4d2d-b776-0f1e5af23fb4)
 
 <p align="center">
-  <b> 🌴🎄🌳🌲 ⭐💖 - Profile - 💖⭐ 🌲🌳🎄🌴 </b>
+  <b> 🌴🎄🌳🌲 ⭐💖 - Suggested Music Sample - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
 ![mucition6](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/64f2ef54-85a9-4c45-bd2e-cf301c4810df)
-
-
 
 ## Badges
 
