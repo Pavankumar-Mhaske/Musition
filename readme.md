@@ -46,7 +46,9 @@
   <b> 🌴🎄🌳🌲 ⭐💖 - Profile - 💖⭐ 🌲🌳🎄🌴 </b>
 </p>
 
-![Uploading mucition6.png…]()
+![mucition6](https://github.com/Pavankumar-Mhaske/Musition/assets/104865937/64f2ef54-85a9-4c45-bd2e-cf301c4810df)
+
+
 
 ## Badges
 
