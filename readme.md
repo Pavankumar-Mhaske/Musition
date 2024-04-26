@@ -8,7 +8,7 @@
 
 ### 🙏 Welcome to Musition 🙏 - Your personal musician! 🎶
 
-### Our Music 🎵 Recommendation System leverages Emotion😀 Recognition 💽 powered by deep learning, 🤖 AI, and machine learning for enhanced music suggestions. ✅
+### Our Music 🎵 Recommendation System leverages Emotion😀 Recognition 💽 powered by deep learning, 🤖 AI, and machine learning for personalized music suggestions. ✅
 
 ## 📸 Screenshots 📷🎥
 
